@@ -13,14 +13,14 @@ export class HomePage extends Component {
 
     private createTemplate() {
         return `
-        <main>
-            <h2>Pokemon List</h2>
-            <slot name="home"></slot>
-               <div>
-                    <button id="bprevious">Previous</button>
-                    <button id="bnext">Next</button>
-                </div>
-        </main>
+            <main>
+                <h2>Pokemon List</h2>
+                    <slot name="home"></slot>
+                        <div>
+                                <button id="bprevious">Previous</button>
+                                <button id="bnext">Next</button>
+                        </div>
+            </main>
         `;
     }
 }
