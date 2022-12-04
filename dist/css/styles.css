@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background-color: rgb(192, 240, 255);
+    justify-content: center;
+}
