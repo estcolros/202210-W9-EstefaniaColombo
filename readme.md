@@ -1,6 +1,6 @@
 ![Logo Pokémon](/dist/assets/pokemon-logo.svg)
 
-# Challenge week 8
+# Challenge week 9
 
 ## Pokémon
 
